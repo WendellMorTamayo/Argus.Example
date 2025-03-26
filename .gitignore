@@ -1,7 +1,5 @@
 **/bin
 **/obj
 
-**/appsettings.json
-**/appsettings.*.json
-
-**/.vscode
+appsettings.json
+appsettings.*.json
